@@ -3,7 +3,7 @@
     "description": "Library to support using small OLED displays on your Robot",
     "version": "0.1.0",
     "dependencies": {
-        "hub-robot-core": "git@github.com:demo-ninjas/hub-robot-core.git"
+        "hub-robot-core": "https://github.com/demo-ninjas/hub-robot-core.git"
     },
     "authors": [
         {
