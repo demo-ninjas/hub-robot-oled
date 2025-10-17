@@ -1,7 +1,7 @@
 {
     "name": "hub-robot-oled",
-    "description": "Library to support using small OLED displays on your Robot",
-    "version": "0.1.0",
+    "description": "Efficient, memory-safe library for controlling small OLED displays on robotics projects. Supports Grove 0.96 and SSD1306 displays with unified API, headers, scrolling, and advanced features.",
+    "version": "0.2.0",
     "dependencies": {
         "hub-robot-core": "https://github.com/demo-ninjas/hub-robot-core.git"
     },
